@@ -1,0 +1,33 @@
+body {
+    background-color: green;
+  }
+  
+  #dinos {
+    display: block;
+    margin: 0 auto 0 auto;
+  }
+  
+  #Trex {
+    display: block;
+    margin: 0 auto 0 auto;
+  }
+  
+  #bronto {
+    display: block;
+    margin: 0 auto 0 auto;
+  }
+  
+  #Tric {
+    display: block;
+    margin: 0 auto 0 auto;
+  }
+  
+  .buttons {
+    float: left;
+    margin-right: 3px;
+  }
+  
+  .wrapper {
+    position: absolute;
+    width: 1000px;
+  }
